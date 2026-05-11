@@ -93,10 +93,12 @@ bash train_example.sh
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
 
 ```bibtex
-@article{wu2025video,
+@article{wu2026spmem,
   title={Video world models with long-term spatial memory},
   author={Wu, Tong and Yang, Shuai and Po, Ryan and Xu, Yinghao and Liu, Ziwei and Lin, Dahua and Wetzstein, Gordon},
-  journal={arXiv preprint arXiv:2506.05284},
-  year={2025}
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={49371--49393},
+  year={2026}
 }
 ```
